@@ -1,0 +1,11 @@
+{
+  "employee": [
+    {
+      "id": "f2564737-1e63-410b-a9ee-05b0682a4929",
+      "name": "Serhan",
+      "email": "dogruserhanayberk@gmail.com",
+      "adress": "çekmece mah. çekmece cad.",
+      "phone": "011111111111"
+    }
+  ]
+}
